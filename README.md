@@ -2,7 +2,7 @@
 Entity Script for HL2 Games, Aiming to bring a GMOD-like Experience in Original HL2
 
 # How to use
-(1) Create a new folder named as `ent` in [MOD_NAME]/cfg, for example hl2/cfg, episodic/cfg, ep2/cfg.\
+(1) Create a new folder named as `ent` in `[MOD_NAME]/cfg`, for example `hl2/cfg`, `episodic/cfg`, `ep2/cfg`.\
 (2) Put all the files into the `ent` folder.\
 (3) Run the game, enter a map, aim at ground, in console enter `exec ent/[SCRIPT_FILENAME]`, the `.cfg` suffix is not required. \
 Note #1: for some scripts, you may need to `noclip` to the mid air and aim directly down to the ground, then `exec` the script. Otherwise, the relative positions between the entities in the script may not be correct.\
