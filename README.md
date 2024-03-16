@@ -10,4 +10,4 @@ Note #2: for most of the scripts, one script can be run ONLY ONCE in a map or sa
 
 # Chinese Description (中文版权说明)
 脚本作者为pulsarfield，作者本人在Bilibili视频网的主页是：https://space.bilibili.com/1561286759
-这个B站up主和本github repo是同一人，脚本皆为作者自己制作，并非搬运/盗取！请某些人（例如b站ID：刘华强0281）不要诬陷！不要血口喷人！不要戾气太重！
+这个B站up主和本github repo是同一人，脚本皆为作者自己制作，并非搬运/盗取！请某些人（例如b站ID：刘华强0281）不要诬陷！不要戾气太重！
